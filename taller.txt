@@ -1,5 +1,5 @@
 # Soporte Windows - donde esta el taller (lo escribe el taller)
 # Publico a proposito: lleva solo la direccion, nunca la clave de la sesion.
-FECHA=2026-09-29 01:17
-TALLER=https://these-her-bright-charleston.trycloudflare.com
-KIT=Soporte-Windows-v1.6.1.zip
+FECHA=2026-09-29 01:29
+TALLER=https://legacy-marine-biodiversity-viii.trycloudflare.com
+KIT=Soporte-Windows-v1.6.2.zip
